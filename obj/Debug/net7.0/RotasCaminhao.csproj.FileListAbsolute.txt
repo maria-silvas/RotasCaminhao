@@ -1,0 +1,60 @@
+/home/jackson/Documentos/csharp/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao
+/home/jackson/Documentos/csharp/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.deps.json
+/home/jackson/Documentos/csharp/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.runtimeconfig.json
+/home/jackson/Documentos/csharp/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.dll
+/home/jackson/Documentos/csharp/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.pdb
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.csproj.AssemblyReference.cache
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.GeneratedMSBuildEditorConfig.editorconfig
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.AssemblyInfoInputs.cache
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.AssemblyInfo.cs
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.csproj.CoreCompileInputs.cache
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.dll
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/refint/RotasCaminhao.dll
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.pdb
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.genruntimeconfig.cache
+/home/jackson/Documentos/csharp/RotasCaminhao/obj/Debug/net7.0/ref/RotasCaminhao.dll
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.csproj.AssemblyReference.cache
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.GeneratedMSBuildEditorConfig.editorconfig
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.AssemblyInfoInputs.cache
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.AssemblyInfo.cs
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.csproj.CoreCompileInputs.cache
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.dll
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/refint/RotasCaminhao.dll
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.pdb
+/home/madu/Área de Trabalho/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao
+/home/madu/Área de Trabalho/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.deps.json
+/home/madu/Área de Trabalho/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.runtimeconfig.json
+/home/madu/Área de Trabalho/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.dll
+/home/madu/Área de Trabalho/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.pdb
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.genruntimeconfig.cache
+/home/madu/Área de Trabalho/RotasCaminhao/obj/Debug/net7.0/ref/RotasCaminhao.dll
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.csproj.AssemblyReference.cache
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.GeneratedMSBuildEditorConfig.editorconfig
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.AssemblyInfoInputs.cache
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.AssemblyInfo.cs
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.csproj.CoreCompileInputs.cache
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.dll
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/refint/RotasCaminhao.dll
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.pdb
+/home/hayuros/Downloads/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao
+/home/hayuros/Downloads/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.deps.json
+/home/hayuros/Downloads/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.runtimeconfig.json
+/home/hayuros/Downloads/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.dll
+/home/hayuros/Downloads/RotasCaminhao/bin/Debug/net7.0/RotasCaminhao.pdb
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/RotasCaminhao.genruntimeconfig.cache
+/home/hayuros/Downloads/RotasCaminhao/obj/Debug/net7.0/ref/RotasCaminhao.dll
+/home/madu/Documentos/RotasCaminhaoModificado/bin/Debug/net7.0/RotasCaminhao
+/home/madu/Documentos/RotasCaminhaoModificado/bin/Debug/net7.0/RotasCaminhao.deps.json
+/home/madu/Documentos/RotasCaminhaoModificado/bin/Debug/net7.0/RotasCaminhao.runtimeconfig.json
+/home/madu/Documentos/RotasCaminhaoModificado/bin/Debug/net7.0/RotasCaminhao.dll
+/home/madu/Documentos/RotasCaminhaoModificado/bin/Debug/net7.0/RotasCaminhao.pdb
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/RotasCaminhao.csproj.AssemblyReference.cache
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/RotasCaminhao.GeneratedMSBuildEditorConfig.editorconfig
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/RotasCaminhao.AssemblyInfoInputs.cache
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/RotasCaminhao.AssemblyInfo.cs
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/RotasCaminhao.csproj.CoreCompileInputs.cache
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/RotasCaminhao.dll
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/refint/RotasCaminhao.dll
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/RotasCaminhao.pdb
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/RotasCaminhao.genruntimeconfig.cache
+/home/madu/Documentos/RotasCaminhaoModificado/obj/Debug/net7.0/ref/RotasCaminhao.dll
